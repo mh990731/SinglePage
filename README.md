@@ -4,3 +4,11 @@
 **如果你不是把文件放在网站根目录 请修改引用地址**  
 **修改index.html 把头像 标题 内容都改为你自己的**  
 **我的博客[方寸之间](https://mhans.cn "悬停显示")**
+
+
+**HTML5 single page**  
+Demo address [SinglePage](https://mhans.cn/single "悬停显示")  
+`The content is fully localized depending on your server`  
+**If you do not put the file in the root directory of the site please modify the reference address**  
+**Modify the index.html to change the title and the head to your own**  
+**My blog is (https://mhans.cn)**
